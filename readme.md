@@ -9,7 +9,6 @@
 [![leetcode badge](https://img.shields.io/badge/irfanukani-30302f?style=flat&logo=leetcode)](https://leetcode.com/irfanukani)
 [![codeforces badge](https://img.shields.io/badge/wizziey-30302f?style=flat&logo=codeforces)](https://codeforces.com/profile/wizziey)
 
-![](https://visitor-badge.glitch.me/badge?page_id=sayantan1413.sayantan1413)
 ![](https://img.shields.io/static/v1?label=From%20Hello%20World%20I%27ve%20Written&message=243894%20lines%20of%20code&color=green)
 
 - 19 year old
