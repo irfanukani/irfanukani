@@ -1,4 +1,4 @@
-### <h1 align="center">Hello there 👋, It's Irfan here. <h1>
+[![Hey, I'm Irfan!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f600_1f917&text=Hey%252C%2520I%27m%2520Irfan%21)](https://pimp-my-readme.webapp.io)
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400px" />
   
@@ -30,14 +30,9 @@
 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
 
-<p align="center">
-<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">&nbsp;&nbsp;<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;&nbsp;<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;<img height="45"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">&nbsp;&nbsp;<img height="45"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">&nbsp;&nbsp;<img height="45"                                                                                                                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;<img height="45"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">&nbsp;&nbsp;<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="45" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><img height="45"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;
-</p>
+
+[![JavaScript_HTML_CSS_Java_NodeJS_GoLang_MongoDB_ReactJS_Express_Spring Boot](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Java_NodeJS_GoLang_MongoDB_ReactJS_Express_Spring%20Boot)](https://pimp-my-readme.webapp.io)
+
 <br>
   
 <div align="center">
@@ -46,7 +41,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=irfanukani&count_private=true&hide_border=false&show_icons=true&theme=tokyonight" />
 
-![Sayantan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanukani&theme=tokyonight&layout=compact&width=100&height=50)
+![Irfan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanukani&theme=tokyonight&layout=compact&width=100&height=50)
 
 <h1 align="center">⭐️ Contributions: ⭐️</h1>
   <br>
