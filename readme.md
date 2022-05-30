@@ -1,6 +1,6 @@
-[![Hey, I'm Irfan!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f600_1f917&text=Hey%252C%2520I%27m%2520Irfan%21)](https://pimp-my-readme.webapp.io)
-
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400px" />
+<div align="center">
+<a href="https://app.daily.dev/irfanukani"><img src="https://api.daily.dev/devcards/e378d595cca54973ab09e15d4fb5138f.png?r=gdl" width="400" alt="Irfan Ukani's Dev Card"/></a>
+  </div>
   
   
   <div></div>
