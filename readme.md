@@ -33,27 +33,6 @@
 
 [![JavaScript_HTML_CSS_Java_NodeJS_GoLang_MongoDB_ReactJS_Express_Spring Boot](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Java_NodeJS_GoLang_MongoDB_ReactJS_Express_Spring%20Boot)](https://pimp-my-readme.webapp.io)
 
-<br>
-  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irfanukani&theme=onedark" align="center"/>
-</div>  
-<br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfanukani&count_private=true&hide_border=false&show_icons=true&theme=tokyonight" />
-
-![Irfan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanukani&theme=tokyonight&layout=compact&width=100&height=50)
-
-<h1 align="center">⭐️ Contributions: ⭐️</h1>
-  <br>
-  <p align="center">
-    <a href="https://git.io/streak-stats">
- <img src="http://github-readme-streak-stats.herokuapp.com?user=irfanukani&theme=tokyonight&background=0d1117&border=666">
-<br>
- <br>
-      <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=irfanukani&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false&theme=tokyonight" />
-  </p>    
-<br>
 <h1 align="center" >Connect with me📬 </h1>
 <div align="center">
 <a href="https://twitter.com/irfanukani" target="_blank">
