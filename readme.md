@@ -39,7 +39,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=irfanukani&theme=onedark" align="center"/>
 </div>  
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=irfanukani&count_private=true&hide_border=false&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfanukani&count_private=true&hide_border=false&show_icons=true&theme=tokyonight" />
 
 ![Irfan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanukani&theme=tokyonight&layout=compact&width=100&height=50)
 
