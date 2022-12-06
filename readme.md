@@ -26,13 +26,6 @@
 - ♟Apart from coding i learn to do **Check Mates**
 - ⚡ Motto : "Lets Create Less Bugs"
 
-## Tech Stack
-
-#### 👨🏻‍💻 Mostly Used Languages, Frameworks :
-
-
-[![JavaScript_HTML_CSS_Java_NodeJS_GoLang_MongoDB_ReactJS_Express_Spring Boot](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Java_NodeJS_GoLang_MongoDB_ReactJS_Express_Spring%20Boot)](https://pimp-my-readme.webapp.io)
-
 <h1 align="center" >Connect with me📬 </h1>
 <div align="center">
 <a href="https://twitter.com/irfanukani" target="_blank">
