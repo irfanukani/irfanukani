@@ -11,15 +11,15 @@
 
 ![](https://img.shields.io/static/v1?label=From%20Hello%20World%20I%27ve%20Written&message=243894%20lines%20of%20code&color=green)
 
-- 20 year old
-- CSE Undergrad
+- 21 year old
+- CSE Postgrad
 - Competitive Programmer
 - FrontEnd Web Developer
-- Devang Patel Institute of Advance technology and Research
-- 2019-2023
+- IIIT Hyderabad.
+- 2023 - 2025
 - 🌱 I’m currently establishing **Myself**
 - 👨‍💻 Currently working on **Spring Boot Framework**
-- 💬 Ask me about **ReactJS || GO**
+- 💬 Ask me about **ReactJS | GO**
 - 👨‍💻 All of my projects are available **here**
 - 📫 Reach me at: **irfanukani2@gmail.com**
 - 🤔 I'm looking for help to improve my **Competitive Programming skills**
