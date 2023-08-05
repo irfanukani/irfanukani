@@ -7,7 +7,7 @@
   
 [![codechef badge](https://img.shields.io/badge/irfan_ukani-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/irfan_ukani)
 [![leetcode badge](https://img.shields.io/badge/irfanukani-30302f?style=flat&logo=leetcode)](https://leetcode.com/irfanukani)
-[![codeforces badge](https://img.shields.io/badge/wizziey-30302f?style=flat&logo=codeforces)](https://codeforces.com/profile/wizziey)
+[![codeforces badge](https://img.shields.io/badge/wizziey-30302f?style=flat&logo=codeforces)](https://codeforces.com/profile/ukaniirfan)
 
 ![](https://img.shields.io/static/v1?label=From%20Hello%20World%20I%27ve%20Written&message=243894%20lines%20of%20code&color=green)
 
