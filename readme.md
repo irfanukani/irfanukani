@@ -4,19 +4,15 @@
 [![leetcode badge](https://img.shields.io/badge/irfanukani-30302f?style=flat&logo=leetcode)](https://leetcode.com/irfanukani)
 [![codeforces badge](https://img.shields.io/badge/ukaniirfan-30302f?style=flat&logo=codeforces)](https://codeforces.com/profile/ukaniirfan)
 
-- 21 year old
+- 22 year old
 - CSE Postgrad
 - Competitive Programmer
 - FrontEnd Web Developer
 - IIIT Hyderabad.
 - 2023 - 2025
-- 🌱 I’m currently establishing **Myself**
-- 👨‍💻 Currently working on **Spring Boot Framework**
-- 💬 Ask me about **ReactJS | GO**
 - 👨‍💻 All of my projects are available **here**
 - 📫 Reach me at: **irfanukani2@gmail.com**
 - 🤔 I'm looking for help to improve my **Competitive Programming skills**
-- ♟Apart from coding i learn to do **Check Mates**
 - ⚡ Motto : "Lets Create Less Bugs"
 
 <h1 align="center" >Connect with me📬 </h1>
