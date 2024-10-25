@@ -7,7 +7,7 @@
 - 22 year old
 - CSE Postgrad
 - Competitive Programmer
-- FrontEnd Web Developer
+- C++ is 💙
 - IIIT Hyderabad.
 - 2023 - 2025
 - 👨‍💻 All of my projects are available **here**
